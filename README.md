@@ -1,8 +1,8 @@
 # Base layout template with Gulp, SCSS and Stylelint
 1. Create a repo using this template
 
-1.Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
+1.- [the MET landing page](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=0%3A1)
 
-2.- [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+[DEMO LINK](https://DmitriiPirohov.github.io/TheMet-landing/)
 
 Tech stack: HTML5, SASS, JS Responsive design
